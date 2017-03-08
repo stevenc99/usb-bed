@@ -1,0 +1,2 @@
+Verbatim_STORE_N_GO_483E8991	Ubuntu\x2016.04\x20LTS\x20amd64	# efi partition corrupted; update to 16.04.1
+Intenso_Basic_Line_D198480E	Kali\x20Live			# is labelled as ubuntu
